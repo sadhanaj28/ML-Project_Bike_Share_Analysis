@@ -16,5 +16,11 @@ compare the system usage between three large cities : New York City, Chicago, an
 * Visualizations
 * Performing Your Own Analysis
 
+Requirments
+-----
+* python 3
+* jupyter notebook
+* anaconda python
+
 
 
